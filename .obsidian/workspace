@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "3b2bafe82b0259bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "35b840e10ebc0803",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Events/210611 Scaling an Accessibility Program Efficiently @ Deque.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11e8b7b7b352d789",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb4d93e2ed43bbab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eed9e66596bb43da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "073e5fc0cc5d7a24",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c38fdddf783d7f30",
+    "type": "split",
+    "children": [
+      {
+        "id": "5df530aa343c60ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51a81faec3f9eceb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Events/210611 Scaling an Accessibility Program Efficiently @ Deque.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "35b840e10ebc0803",
+  "lastOpenFiles": [
+    "Events/210611 Scaling an Accessibility Program Efficiently @ Deque.md"
+  ]
+}
