@@ -2,6 +2,8 @@
 
 https://www.youtube.com/watch?v=6pSEZEUhtLs (stopped watching at 34:46)
 
+**Greg Williams**, Vice President and Principal Strategy Consultant, Deque.
+
 ## Resources
 
 Read: [Agile Accessibility Handbook](https://accessibility.deque.com/agile-accessibility-handbook)
@@ -48,3 +50,24 @@ Key roles in content creation process: designers, developers, quality assurance 
 5. Give the teams accessibility coaches
 6. Execute an ongoing empathy programme
 7. Publish learning resources and bulletins
+
+### Functions of central team
+
+- Educate and obtain executive buy-in
+- Accessibility policy
+- Create and maintain learning resources
+- Provide best-in-class Tools
+- Report metrics, and use them to identify opportunities for more coaching and training
+- Create and maintain org's accessibility standards
+- Provide pool of accessibility coaches: fastest way to get to create accessible content independently
+
+Webinar: Metrics reporting for accessibility programs
+
+Scaled accessibility is possible
+It is change:
+- Incremental
+- Record progress
+- Communication is key
+- Shift left (as early as possible)
+- Repeatable and consistent processes
+- Enabling and supporting framework (programme, Center of Excellence)
