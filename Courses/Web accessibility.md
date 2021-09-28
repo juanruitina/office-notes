@@ -96,7 +96,7 @@ WebAIM checklist items:
 
 JavaScript headings snippet:
 
-```
+```javascript
 for (var i = 0, headings = $$('h1,h2,h3,h4,h5,h6');
      i < headings.length; i++) {
    console.log(headings[i].textContent.trim() + " " +  
@@ -122,4 +122,26 @@ Always use a link:
 WebAIM checklist item 2.4.9: http://webaim.org/standards/wcag/checklist#sc2.4.9
 
 Use heading inside section
+
 Use nav for table of contents
+
+## Semantics: ARIA
+WAI-ARIA: Web Accessibility Initiative's Accessible Rich Internet Applications spec
+
+ARIA attributes always need to have explicit values
+
+? https://classroom.udacity.com/courses/ud891/lessons/8311490720/concepts/724c168a-37e0-43e5-9174-6170bf0cb4c9 Couldn't figure this out
+
+### Roles
+
+Shorthand for a particular UI pattern
+
+- ARIA 1.0 roles: https://www.w3.org/TR/wai-aria-1.0/#roles
+- ARIA 1.1 roles (draft): https://www.w3.org/TR/wai-aria-1.1/#roles
+- ♥ ARIA 1.1 practices guide (draft): https://www.w3.org/TR/wai-aria-practices-1.1/
+
+Check which states and properties are required for any given role
+
+aria-owns: use to indicate a child that is separate from parent in the DOM. E.g. floating menus and submenus.
+
+? `hidden` attribute?
